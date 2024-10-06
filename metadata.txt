@@ -1,0 +1,10 @@
+[general]
+name=Bina Veri Ön İşleme Eklentisi
+description=Bina verilerinde kendi kendini kesme ve ince çıkıntılar problemlerini çözer. 
+about=Bina genelleştirmesinde veri ön hazırlık işlemlerini yapmak için geliştirilmiştir. 
+version=1.0
+qgisMinimumVersion=3.0
+author=İbrahim Öztuğ Bildirici
+email=iobildirici@yahoo.com
+repository=http://www.iobildirici.com
+homepage=http://www.iobildirici.com
